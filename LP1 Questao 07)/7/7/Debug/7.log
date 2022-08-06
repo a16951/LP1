@@ -1,0 +1,4 @@
+﻿  main.c
+c:\users\andre\desktop\trabalho\lp\questao 07)\7\7\main.c(17): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\andre\desktop\trabalho\lp\questao 07)\7\7\main.c(42): warning C4778: 'printf' : unterminated format string '%\n'
+  7.vcxproj -> C:\Users\andre\Desktop\trabalho\LP\Questao 07)\7\Debug\7.exe

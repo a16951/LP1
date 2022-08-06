@@ -1,0 +1,5 @@
+﻿  funçoes.c
+  main.c
+  Generating Code...
+c:\users\andre\desktop\questao 09)\09)\09)\funçoes.c(17): warning C4715: 'fatorial': not all control paths return a value
+  09).vcxproj -> C:\Users\andre\Desktop\Questao 09)\09)\Debug\09).exe
